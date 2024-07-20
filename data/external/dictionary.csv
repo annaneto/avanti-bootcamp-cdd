@@ -1,0 +1,11 @@
+variável,descrição,tipo,subtipo
+Preço,Preço em USD,Quantitativa,Contínua
+Quilate,Peso do diamante,Quantitativa,Contínua
+Corte,Qualidade do corte,Qualitativa,Ordinal
+Cor,Cor do diamante ,Qualitativa,Ordinal
+Clareza,Uma medida de quão claro é o diamante,Qualitativa,Ordinal
+x,Comprimento em milímetro,Quantitativa,Contínua
+y,Largura em milímetro,Quantitativa,Contínua
+z,Profundidade em milímetro,Quantitativa,Contínua
+Profundidade,Porcentagem total de profundidade,Quantitativa,Contínua
+Mesa,Largura do topo do diamante em relação ao ponto mais largo,Quantitativa,Contínua
